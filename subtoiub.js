@@ -1,5 +1,5 @@
-// by https://3kh0.github.io pls no sue me
-// no wait real-kwellercat made it
+// by https://3kh0.github.io got inspired by him
+// real-kwellercat helped me to put it in my site
 
 function changeSub(num) {
     document.getElementById("subtitle").innerText = say[num];
@@ -7,10 +7,11 @@ function changeSub(num) {
   
 var say = [];
 
-say[0] = "oops sorry mate"
-say[1] = "get ratioed off the planet earth! \n - twitter"
-say[2] = "https://bit.ly/3y4FJQH <- me"
-say[3] = "thanks 3kh0, very cool!"
+say[0] = "69,420 yes"
+say[1] = "w user"
+say[2] = "https://www.youtube.com/channel/UCaHSC1KLI6uINiNtO8-1qPg <- my channel"
+say[3] = "this site was inspired by 3kh0!"
+say[4] = "Hello world, this is TLDG."
 
 // pick a random greeting
 var howmany = say.length;
