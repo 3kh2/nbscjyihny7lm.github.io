@@ -12,6 +12,7 @@ say[1] = "w user"
 say[2] = "https://www.youtube.com/channel/UCaHSC1KLI6uINiNtO8-1qPg <- my channel"
 say[3] = "this site was inspired by 3kh0!"
 say[4] = "Hello world, this is TLDG."
+say[5] = "Hello world, this is TLDG, this site was inspired by 3kh0, https://www.youtube.com/channel/UCaHSC1KLI6uINiNtO8-1qPg <- my channel69, 69420 yes, w user"  
 
 // pick a random greeting
 var howmany = say.length;
